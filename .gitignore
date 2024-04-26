@@ -1,0 +1,6 @@
+# Ignorar archivos Sass
+*.sass
+*.scss
+
+# Ignorar el road map de CSS
+*.map
